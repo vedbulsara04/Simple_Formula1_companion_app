@@ -1,3 +1,0 @@
-1st Line..
-Pushing into Github
-# This line has been added to demonstrate the usage of Git Pull command.
